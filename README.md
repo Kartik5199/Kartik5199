@@ -78,12 +78,12 @@
 
 ## 📊 Github Stats
 
-<p align="left">
-<a href="https://github.com/Aditya10009">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya10009&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya10009&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/obiwan04kanobi/github-readme-stats">
+  <img height=180 align="center" src="https://obiwan-github-readme-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&include_all_commits=true&theme=jolly" />
 </a>
-</p>
+<a href="https://github.com/obiwan04kanobi/convoychat">
+  <img height=180 align="center" src="https://obiwan-github-readme-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&theme=jolly" />
+</a>
 
 ## 🔥 Streak Stats
 
