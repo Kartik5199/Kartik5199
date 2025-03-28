@@ -23,7 +23,7 @@
 <a href="https://www.codingninjas.com/" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Aditya10009"/></a>
 <a href="https://www.geeksforgeeks.org/user/mishraadi6eqv/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Aditya10009"/></a>
 <a href="https://www.hackerrank.com/profile/mishraaditya2018" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Aditya10009"/></a>
-<a href="https://adityamishraprakhar.netlify.app/" target="_blank">
+<a href="https://my-website-fr7v.onrender.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
