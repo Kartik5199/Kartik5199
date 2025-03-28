@@ -86,7 +86,7 @@
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="[https://adityamishraprakhar.netlify.app/](https://my-website-fr7v.onrender.com/)" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://my-website-fr7v.onrender.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/Kartik5199/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kartik-dwivedi-53a4b1264/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:kartikdwivedi519@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
