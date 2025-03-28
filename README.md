@@ -73,9 +73,6 @@
 
 <p>
 
-## &nbsp;🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aditya10009&theme=algolia)](https://github.com/Aditya10009/github-profile-trophy)
-
 ## 📊 Github Stats
 
 <a href="https://github.com/Kartik5199/github-readme-stats">
