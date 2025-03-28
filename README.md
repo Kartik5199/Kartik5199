@@ -78,7 +78,7 @@
 
 ## 📊 Github Stats
 
-<a href="https://github.com/obiwan04kanobi/github-readme-stats">
+<a href="https://github.com/Kartik5199/github-readme-stats">
   <img height=180 align="center" src="https://obiwan-github-readme-stats.vercel.app/api?username=obiwan04kanobi&show_icons=true&include_all_commits=true&theme=jolly" />
 </a>
 <a href="https://github.com/Kartik5199/convoychat">
