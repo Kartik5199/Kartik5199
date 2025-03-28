@@ -82,14 +82,6 @@
   <img height=180 align="center" src="https://obiwan-github-readme-stats.vercel.app/api/top-langs/?username=obiwan04kanobi&layout=compact&langs_count=8&theme=jolly" />
 </a>
 
-## 🔥 Streak Stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dev's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya10009&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 
 ## 🙋‍♀️ Let's Connect
 
