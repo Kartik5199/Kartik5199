@@ -86,13 +86,10 @@
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://adityamishraprakhar.netlify.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/[DevGoyalG](https://github.com/DevGoyalG)" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="http://www.linkedin.com/in/aditya-kumar-mishra-5621a7258" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
-	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="X"/></a>
-	<a href="mailto:mishraaditya2018@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="[https://adityamishraprakhar.netlify.app/](https://my-website-fr7v.onrender.com/)" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/Kartik5199/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/kartik-dwivedi-53a4b1264/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:kartikdwivedi519@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-<!-- Made By [Aditya Kumar Mishra](https://github.com/Aditya10009) -->
+<!-- Made By [Aditya Kumar Mishra](https://github.com/Kartik5199) -->
