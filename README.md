@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;Data+Enthusiast;Machine+Learning+Aficionado;&center=true&width=380&height=45"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya10009&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya10009" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kartik5199&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya10009" /> </p>
 
 ## 👨‍💻  &nbsp;About Me 
 - 🎓 3rd-year B.Tech Student in Computer Science at Noida Institute of Engineering and Technology.
