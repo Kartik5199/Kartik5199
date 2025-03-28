@@ -8,7 +8,7 @@
 
 ## 👨‍💻  &nbsp;About Me 
 - 🎓 3rd-year B.Tech Student in Computer Science at Noida Institute of Engineering and Technology.
-- 🌱 I’m fascinated by Web Development, Machine Learning, and how Data Science is transforming Industries.
+- 🌱 I’m fascinated by Machine Learning, Web Development and how Data Science is transforming Industries.
 - 💻 Currently Learning: Advanced algorithms, AWS Cloud Computing, and data analytics with Python.
 - 📫 Feel free to contact me : **kartikdwivedi@gmail.com**
 
