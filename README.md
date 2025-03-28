@@ -8,9 +8,9 @@
 
 ## 👨‍💻  &nbsp;About Me 
 - 🎓 3rd-year B.Tech Student in Computer Science at Noida Institute of Engineering and Technology.
-- 🌱 I’m fascinated by Web Development, IoT, Machine Learning, and how Data Science is transforming Industries.
+- 🌱 I’m fascinated by Web Development, Machine Learning, and how Data Science is transforming Industries.
 - 💻 Currently Learning: Advanced algorithms, AWS Cloud Computing, and data analytics with Python.
-- 📫 Feel free to contact me : **mishraaditya2018@gmail.com**
+- 📫 Feel free to contact me : **kartikdwivedi@gmail.com**
 
 </p> 
 
@@ -19,8 +19,6 @@
 <p align="left">
 
 <a href="https://leetcode.com/u/Aditya_1009/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Aditya10009" /></a>
-<a href="https://www.codechef.com/users/aditya10009" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Aditya10009"/></a>
-<a href="https://www.codingninjas.com/" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Aditya10009"/></a>
 <a href="https://www.geeksforgeeks.org/user/mishraadi6eqv/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Aditya10009"/></a>
 <a href="https://www.hackerrank.com/profile/mishraaditya2018" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Aditya10009"/></a>
 <a href="https://my-website-fr7v.onrender.com/" target="_blank">
@@ -66,7 +64,6 @@
 
 <p>
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
